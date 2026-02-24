@@ -44,7 +44,7 @@ We may update this policy from time to time. Changes will be reflected by updati
 
 ## Contact
 
-If you have questions about this policy, contact us at **[your email]**.
+If you have questions about this policy, contact us at **dev@justgoup.app**.
 
 ---
 
