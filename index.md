@@ -1,7 +1,3 @@
-Here's a ready-to-paste draft:
-
----
-
 # Pantri — Privacy Policy
 
 **Last updated:** February 23, 2026
