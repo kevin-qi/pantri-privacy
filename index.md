@@ -1,14 +1,14 @@
 # Pantri — Privacy Policy
 
-**Last updated:** November 8, 2026
+**Last updated:** November 9, 2026
 
 ## Our approach
 
 Pantri keeps your recipes, shopping lists, and pantry inventory on your device. We don't
 sell your data, show ads, or track you across other apps or websites. There are no user
-accounts and no sign-up. Data leaves your device in only three situations: when you import a
-recipe or a shopping list (so an AI service can turn it into structured items), for limited
-reliability diagnostics, and to verify an in-app purchase if you make one.
+accounts and no sign-up. Data leaves your device only when you use a feature that needs it:
+importing a recipe or a shopping list, asking Pantri to sort recipes into a folder, sending us
+feedback, limited reliability diagnostics, and verifying an in-app purchase if you make one.
 
 ## Data stored on your device
 
@@ -31,6 +31,17 @@ identifiers in these requests.
 For **photo imports**, the text is extracted **on your device** using your phone's built-in
 text-recognition capability. The photo itself is never sent to us or to any third party —
 only the extracted text enters the import process above.
+
+### Sorting recipes into folders
+
+If you ask Pantri to suggest which of your saved recipes belong in a folder, the folder's name
+and short summaries of your saved recipes (such as their titles) are sent through the same
+relay so the AI can suggest matches. Nothing is moved until you confirm.
+
+### Feedback
+
+If you send feedback from Settings, the message you write is stored on our servers so we can
+read it. Don't include anything you wouldn't want us to see.
 
 ### Fetching public source pages
 
@@ -89,7 +100,7 @@ We do not use advertising SDKs, and we do not sell or share your data with data 
 
 - **On-device data** (recipes, lists, pantry): stays on your device and is removed when you
   delete the app.
-- **Server-side data** is deleted automatically: usage events after 180 days, crash and
+- **Server-side data** is deleted automatically: usage events and feedback messages after 180 days, crash and
   error reports after 365 days, and import and AI-usage logs (including imported URLs)
   after 400 days.
 - **Delete it yourself, any time:** **Settings → Delete all Pantri data** permanently
